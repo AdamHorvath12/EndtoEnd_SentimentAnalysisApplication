@@ -12,4 +12,6 @@ Following steps in this project:
 
 
 Based on this article: https://medium.com/swlh/end-to-end-machine-learning-from-data-collection-to-deployment-ce74f51ca203
+
+
 Character Based CNN: https://github.com/ahmedbesbes/character-based-cnn
