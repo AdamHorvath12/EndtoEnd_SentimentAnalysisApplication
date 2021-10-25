@@ -1,6 +1,6 @@
 # End to End Sentiment Analysis Application
 
-In this project, I am going through all the neccessary teps to build and deploy a Machine Learning Application. This project includes data collection, data preprocessing, model training and deployment.
+In this project, I am going through all the neccessary steps to build and deploy a Machine Learning Application. This project includes data collection, data preprocessing, model training and deployment.
 
 Following steps in this project:
 * Collecting and scraping customer reviews data using **Selenium** and **Scrapy**
